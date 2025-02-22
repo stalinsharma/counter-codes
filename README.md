@@ -1,4 +1,1 @@
-mazak hai
-mazak hai
-chalta hai
-mazak hai
+will be adding shift-register codes
